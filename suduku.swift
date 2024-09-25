@@ -3,7 +3,7 @@ import Glibc
 
 
 let DEBUG = true
-let TRACE = false
+let TRACE = true
 
 let DEBUG_BREAK = false
 let DEBUG_TIMES = 1
